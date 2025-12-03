@@ -5,22 +5,22 @@
     "passes": 7,
     "pending": 0,
     "failures": 0,
-    "start": "2024-06-13T18:06:20.908Z",
-    "end": "2024-06-13T18:06:23.466Z",
-    "duration": 2558
+    "start": "2025-12-03T01:24:27.896Z",
+    "end": "2025-12-03T01:24:28.260Z",
+    "duration": 364
   },
   "tests": [
     {
       "title": "has a class of cat",
       "fullTitle": "cat has a class of cat",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "cat.speak() returns '[name]' says meow!",
       "fullTitle": "cat cat.speak() returns '[name]' says meow!",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,14 +41,14 @@
     {
       "title": "has a class of Bird",
       "fullTitle": "bird has a class of Bird",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "bird.speak() returns 'It's me! [name], the parrot!'",
       "fullTitle": "bird bird.speak() returns 'It's me! [name], the parrot!'",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -66,14 +66,14 @@
     {
       "title": "has a class of cat",
       "fullTitle": "cat has a class of cat",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "cat.speak() returns '[name]' says meow!",
       "fullTitle": "cat cat.speak() returns '[name]' says meow!",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,14 +94,14 @@
     {
       "title": "has a class of Bird",
       "fullTitle": "bird has a class of Bird",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "bird.speak() returns 'It's me! [name], the parrot!'",
       "fullTitle": "bird bird.speak() returns 'It's me! [name], the parrot!'",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
